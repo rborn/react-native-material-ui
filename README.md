@@ -7,6 +7,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/xotahal/react-native-material-ui.svg)](https://github.com/xotahal/react-native-material-ui/issues)
 [![Dependencies](https://david-dm.org/xotahal/react-native-material-ui.svg)](https://david-dm.org/xotahal/react-native-material-ui.svg)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/xotahal/react-native-material-ui/master/LICENSE)
+[![Beerpay](https://beerpay.io/xotahal/react-native-material-ui/badge.svg?style=beer-square)](https://beerpay.io/xotahal/react-native-material-ui)  [![Beerpay](https://beerpay.io/xotahal/react-native-material-ui/make-wish.svg?style=flat-square)](https://beerpay.io/xotahal/react-native-material-ui?focus=wish)
 
 
 
@@ -153,6 +154,7 @@ Here is a list of all component included in this library. (I'm working on docume
 
 - [Action Button](https://github.com/xotahal/react-native-material-ui/blob/master/docs/ActionButton.md)
 - Avatar
+- [Badge](https://github.com/xotahal/react-native-material-ui/blob/master/docs/Badge.md)
 - [Button](https://github.com/xotahal/react-native-material-ui/blob/master/docs/Button.md)
 - Card
 - Checkbox
@@ -165,3 +167,8 @@ Here is a list of all component included in this library. (I'm working on docume
 - Radio button
 - Subheader
 - [Toolbar](https://github.com/xotahal/react-native-material-ui/blob/master/docs/Toolbar.md)
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/xotahal/react-native-material-ui/badge.svg?style=beer-square)](https://beerpay.io/xotahal/react-native-material-ui)  [![Beerpay](https://beerpay.io/xotahal/react-native-material-ui/make-wish.svg?style=flat-square)](https://beerpay.io/xotahal/react-native-material-ui?focus=wish)

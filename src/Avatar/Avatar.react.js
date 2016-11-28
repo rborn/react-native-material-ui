@@ -1,6 +1,5 @@
 import React, { PureComponent, PropTypes } from 'react';
 import { View, Image, Text, StyleSheet } from 'react-native';
-import Container from '../Container';
 import Icon from '../Icon';
 
 const propTypes = {
@@ -82,11 +81,11 @@ class Avatar extends PureComponent {
 
 
         return (
-            <Container>
+            <View style={{ flexGrow: 1 }}>
                 <View style={styles.container} >
                     {content}
                 </View>
-            </Container>
+            </View>
         );
     }
 }
